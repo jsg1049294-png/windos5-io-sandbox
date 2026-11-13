@@ -1,0 +1,48 @@
+{
+  "repo": "windos5-io-sandbox",
+  "category": "sandbox",
+  "count": 4,
+  "games": [
+    {
+      "id": "no-pain-no-gain",
+      "name": "No Pain No Gain - Ragdoll Sandbox",
+      "sub": "Ragdoll physics",
+      "type": "embed",
+      "url": "https://html5.gamedistribution.com/a8cc299a420147c08986ee18db66ca58/",
+      "playPage": "https://www.crazygames.com/game/no-pain-no-gain---ragdoll-sandbox",
+      "preview": "https://www.google.com/s2/favicons?domain=crazygames.com&sz=128",
+      "category": "sandbox",
+      "featured": true
+    },
+    {
+      "id": "sandboxels",
+      "name": "Sandboxels",
+      "sub": "Falling sand",
+      "type": "embed",
+      "url": "https://sandboxels.r74n.com",
+      "preview": "https://www.google.com/s2/favicons?domain=sandboxels.r74n.com&sz=128",
+      "category": "sandbox",
+      "featured": false
+    },
+    {
+      "id": "infinite-craft",
+      "name": "Infinite Craft",
+      "sub": "Crafting",
+      "type": "embed",
+      "url": "https://neal.fun/infinite-craft/",
+      "preview": "https://www.google.com/s2/favicons?domain=neal.fun&sz=128",
+      "category": "sandbox",
+      "featured": false
+    },
+    {
+      "id": "little-alchemy-2",
+      "name": "Little Alchemy 2",
+      "sub": "Alchemy",
+      "type": "embed",
+      "url": "https://littlealchemy2.com",
+      "preview": "https://www.google.com/s2/favicons?domain=littlealchemy2.com&sz=128",
+      "category": "sandbox",
+      "featured": false
+    }
+  ]
+}
